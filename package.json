@@ -163,7 +163,7 @@
     "copy-dir": "^0.3.0",
     "docco": "^0.7.0",
     "dotenv": "^6.0.0",
-    "electron": "^1.6.10",
+    "electron": "^9.1.0",
     "electron-builder": "*",
     "electron-packager": "*",
     "jasmine": "^2.5.2",
